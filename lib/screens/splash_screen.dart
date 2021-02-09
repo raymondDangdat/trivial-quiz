@@ -2,7 +2,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:trivial/screens/home.dart';
+import './home.dart';
 
 class SPlashScreen extends StatefulWidget {
   @override
