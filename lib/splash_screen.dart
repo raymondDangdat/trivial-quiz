@@ -23,7 +23,7 @@ class _SPlashScreenState extends State<SPlashScreen> {
       backgroundColor: Colors.indigo,
       
       body: Center(
-        child: Text("Raaxo Quiz ", style: TextStyle(fontSize: 50.0, color: Colors.white),),
+        child: Text("Raaxo Quiz ", style: TextStyle(fontSize: 50.0, color: Colors.white, fontFamily: "Satisfy"),),
       ),
     );
   }
